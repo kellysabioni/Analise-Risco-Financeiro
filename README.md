@@ -291,7 +291,7 @@ Projeto desenvolvido para o Hackathon de Dados.
 ## Integrantes
 
 - Janyelle Oliveira Pinto de Castro — janyelleoliveira30@gmail.com
-- Karen
+- Karen Cristiane Ribeiro - karencristiane92@gmail.com
 - Kelly Cristina Sabioni — kelly.sabioni@yahoo.com.br
 - Luma
 
