@@ -4,14 +4,14 @@
 
 Este projeto foi desenvolvido como proposta de conclusão do Hackathon de Dados, com foco no tema **Risk Intelligence (Risco Financeiro)**.
 
-A solução tem como objetivo analisar padrões financeiros e identificar possíveis comportamentos de risco utilizando:
+A solução tem como objetivo analisar dados financeiros e identificar comportamentos de risco utilizando:
 
 - Engenharia e tratamento de dados
 - Estatística exploratória
 - SQL para consultas analíticas
 - Machine Learning para previsão de risco
 - Dashboards analíticos em Power BI
-- Geração de insights estratégicos para tomada de decisão
+- Geração de insights para tomada de decisão
 
 O projeto simula um fluxo completo de dados, desde a ingestão até a geração de previsões e visualizações executivas.
 
@@ -19,7 +19,7 @@ O projeto simula um fluxo completo de dados, desde a ingestão até a geração 
 
 # Objetivo
 
-Desenvolver um sistema inteligente capaz de:
+Desenvolver um sistema capaz de prever riscos financeiros e apoiar tomadas de decisão por meio de análise de dados, estatística e Machine Learning.
 
 - Detectar comportamentos financeiros fora do padrão
 - Gerar um score de risco financeiro
@@ -131,7 +131,7 @@ Foram aplicadas análises estatísticas e visuais para compreender:
 - Relação entre limite e gastos
 - Padrões de transações
 - Horários de maior incidência de risco
-- Comportamento financeiro por perfil
+- Perfil de comportamento financeiro
 
 ### Principais análises realizadas
 
@@ -217,6 +217,36 @@ Os resultados foram exportados para utilização no dashboard e em análises fut
 
 ---
 
+# Dashboard Power BI
+
+O projeto conta com um dashboard interativo desenvolvido em Power BI para visualização analítica dos dados financeiros e resultados preditivos.
+
+O painel foi construído com foco em:
+
+- Monitoramento de risco financeiro
+- Identificação de padrões de comportamento
+- Visualização de anomalias e transações suspeitas
+- Análise de score de risco
+- Apoio à tomada de decisão baseada em dados
+- Storytelling visual para apresentação executiva
+
+## Principais Indicadores do Dashboard
+
+- Distribuição de clientes por nível de risco
+- Score financeiro médio
+- Relação entre gastos e limite disponível
+- Evolução temporal das transações
+- Perfil de comportamento financeiro
+- Indicadores de possíveis anomalias
+
+## Acesse o Dashboard
+
+Power BI — Sistema Inteligente de Risco Financeiro
+
+https://app.powerbi.com/view?r=eyJrIjoiNmE1YTY3ODQtNWI5Ni00ODRjLTk4MWQtN2QzZjU0MjI5N2U1IiwidCI6ImFhMGYzMTBhLTdmMmQtNDNhZC04NjAwLWQ2MTQyZmMyNTBkNCJ9
+
+---
+
 # Consultas SQL
 
 O projeto também contempla consultas SQL para:
@@ -291,9 +321,9 @@ Projeto desenvolvido para o Hackathon de Dados.
 ## Integrantes
 
 - Janyelle Oliveira Pinto de Castro — janyelleoliveira30@gmail.com
-- Karen Cristiane Ribeiro - karencristiane92@gmail.com
+- Karen Cristiane Ribeiro — karencristiane92@gmail.com
 - Kelly Cristina Sabioni — kelly.sabioni@yahoo.com.br
-- Luma Taynara Guimarães Yoshida - lumagyoshida@gmail.com
+- Luma Taynara Guimarães Yoshida — lumagyoshida@gmail.com
 
 ---
 
@@ -314,5 +344,3 @@ Demonstrar uma solução completa de engenharia, análise e ciência de dados ca
 ✅ Balanceamento de classes  
 ✅ Visualização de dados  
 ✅ Pipeline completo de Data Science
-
-
