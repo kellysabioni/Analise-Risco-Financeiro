@@ -293,7 +293,7 @@ Projeto desenvolvido para o Hackathon de Dados.
 - Janyelle Oliveira Pinto de Castro — janyelleoliveira30@gmail.com
 - Karen Cristiane Ribeiro - karencristiane92@gmail.com
 - Kelly Cristina Sabioni — kelly.sabioni@yahoo.com.br
-- Luma
+- Luma Taynara Guimarães Yoshida - lumagyoshida@gmail.com
 
 ---
 
